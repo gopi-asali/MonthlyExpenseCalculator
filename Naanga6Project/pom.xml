@@ -9,7 +9,7 @@
 	 <url>http://maven.apache.org</url> 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<spring.version>4.3.3.RELEASE</spring.version>
+		<spring.version>5.2.1.RELEASE</spring.version>
 		<spring.batch.version>3.0.7.RELEASE</spring.batch.version>
 	</properties>
 
@@ -32,7 +32,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-jdbc</artifactId>
-    <version>4.3.3.RELEASE</version>
+    <version>5.2.1.RELEASE</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
